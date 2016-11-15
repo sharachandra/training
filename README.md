@@ -1,0 +1,2 @@
+# training
+puppet training
